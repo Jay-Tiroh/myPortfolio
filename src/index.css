@@ -89,7 +89,7 @@ body {
 }
 
 .nav-link {
-  @apply hover:text-secondary cursor-pointer;
+  @apply hover:text-indigo-400 cursor-pointer;
 }
 
 em {

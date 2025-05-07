@@ -22,7 +22,7 @@ const MyJourney = () => {
   }, []);
 
   return (
-    <div className="flex flex-col justify-center my-10 semiformal  w-full">
+    <div className="flex flex-col justify-center  semiformal  w-full">
       <div className=" h-full  m-auto md:max-w-[45rem]">
         <h1 className=" mb-10 casual"> My Journey</h1>
         <Animate type="pop-y">

@@ -3,7 +3,7 @@ import Stack from "./Stack";
 const Hero = () => {
   return (
     <div className="casual">
-      <div className="w-full flex md:flex-row flex-col justify-start items-center md:items-start py-10 md:mt-10  ">
+      <div className="w-full flex md:flex-row flex-col justify-start items-center md:items-start py-10   ">
         <div className="hero-left md:relative md:w-[15rem] w-full">
           <div className="img gradient overflow-hidden flex justify-center items-center w-[15rem] h-[15rem] md:absolute md:-left-11 md:-top-5 m-auto md:m-0">
             <img

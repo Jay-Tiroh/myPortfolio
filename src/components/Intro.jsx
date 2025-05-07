@@ -3,7 +3,7 @@ import Animate from "./Animate";
 
 const Intro = () => {
   return (
-    <div className="flex flex-col justify-center  my-10 casual">
+    <div className="flex flex-col justify-center   casual">
       <Animate type="typing">
         <h1 className="">A Bit About Me</h1>
       </Animate>
